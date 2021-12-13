@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/michelbongard.ch.github.io/static/css/main.489c434f.chunk.css",
-    "main.js": "/michelbongard.ch.github.io/static/js/main.504a8965.chunk.js",
-    "main.js.map": "/michelbongard.ch.github.io/static/js/main.504a8965.chunk.js.map",
-    "runtime-main.js": "/michelbongard.ch.github.io/static/js/runtime-main.41b0a91b.js",
-    "runtime-main.js.map": "/michelbongard.ch.github.io/static/js/runtime-main.41b0a91b.js.map",
-    "static/js/2.a2e55df0.chunk.js": "/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js",
-    "static/js/2.a2e55df0.chunk.js.map": "/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js.map",
-    "static/js/3.510af067.chunk.js": "/michelbongard.ch.github.io/static/js/3.510af067.chunk.js",
-    "static/js/3.510af067.chunk.js.map": "/michelbongard.ch.github.io/static/js/3.510af067.chunk.js.map",
+    "main.css": "/michelbongard.ch.github.io/static/css/main.8390d0e1.chunk.css",
+    "main.js": "/michelbongard.ch.github.io/static/js/main.9854514a.chunk.js",
+    "main.js.map": "/michelbongard.ch.github.io/static/js/main.9854514a.chunk.js.map",
+    "runtime-main.js": "/michelbongard.ch.github.io/static/js/runtime-main.dfd0fb6e.js",
+    "runtime-main.js.map": "/michelbongard.ch.github.io/static/js/runtime-main.dfd0fb6e.js.map",
+    "static/js/2.010b8df2.chunk.js": "/michelbongard.ch.github.io/static/js/2.010b8df2.chunk.js",
+    "static/js/2.010b8df2.chunk.js.map": "/michelbongard.ch.github.io/static/js/2.010b8df2.chunk.js.map",
+    "static/js/3.ae456890.chunk.js": "/michelbongard.ch.github.io/static/js/3.ae456890.chunk.js",
+    "static/js/3.ae456890.chunk.js.map": "/michelbongard.ch.github.io/static/js/3.ae456890.chunk.js.map",
     "index.html": "/michelbongard.ch.github.io/index.html",
-    "static/css/main.489c434f.chunk.css.map": "/michelbongard.ch.github.io/static/css/main.489c434f.chunk.css.map",
-    "static/js/2.a2e55df0.chunk.js.LICENSE.txt": "/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js.LICENSE.txt"
+    "static/css/main.8390d0e1.chunk.css.map": "/michelbongard.ch.github.io/static/css/main.8390d0e1.chunk.css.map",
+    "static/js/2.010b8df2.chunk.js.LICENSE.txt": "/michelbongard.ch.github.io/static/js/2.010b8df2.chunk.js.LICENSE.txt",
+    "static/media/bridge2_2.5_to_1.7d9e6da3.jpg": "/michelbongard.ch.github.io/static/media/bridge2_2.5_to_1.7d9e6da3.jpg",
+    "static/media/profileImage.5773580c.jpg": "/michelbongard.ch.github.io/static/media/profileImage.5773580c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41b0a91b.js",
-    "static/js/2.a2e55df0.chunk.js",
-    "static/css/main.489c434f.chunk.css",
-    "static/js/main.504a8965.chunk.js"
+    "static/js/runtime-main.dfd0fb6e.js",
+    "static/js/2.010b8df2.chunk.js",
+    "static/css/main.8390d0e1.chunk.css",
+    "static/js/main.9854514a.chunk.js"
   ]
 }
