@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mbongard/michelbongard.ch.github.io/static/css/main.489c434f.chunk.css",
-    "main.js": "/mbongard/michelbongard.ch.github.io/static/js/main.504a8965.chunk.js",
-    "main.js.map": "/mbongard/michelbongard.ch.github.io/static/js/main.504a8965.chunk.js.map",
-    "runtime-main.js": "/mbongard/michelbongard.ch.github.io/static/js/runtime-main.12e8aa8f.js",
-    "runtime-main.js.map": "/mbongard/michelbongard.ch.github.io/static/js/runtime-main.12e8aa8f.js.map",
-    "static/js/2.a2e55df0.chunk.js": "/mbongard/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js",
-    "static/js/2.a2e55df0.chunk.js.map": "/mbongard/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js.map",
-    "static/js/3.510af067.chunk.js": "/mbongard/michelbongard.ch.github.io/static/js/3.510af067.chunk.js",
-    "static/js/3.510af067.chunk.js.map": "/mbongard/michelbongard.ch.github.io/static/js/3.510af067.chunk.js.map",
-    "index.html": "/mbongard/michelbongard.ch.github.io/index.html",
-    "static/css/main.489c434f.chunk.css.map": "/mbongard/michelbongard.ch.github.io/static/css/main.489c434f.chunk.css.map",
-    "static/js/2.a2e55df0.chunk.js.LICENSE.txt": "/mbongard/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js.LICENSE.txt"
+    "main.css": "/michelbongard.ch.github.io/static/css/main.489c434f.chunk.css",
+    "main.js": "/michelbongard.ch.github.io/static/js/main.504a8965.chunk.js",
+    "main.js.map": "/michelbongard.ch.github.io/static/js/main.504a8965.chunk.js.map",
+    "runtime-main.js": "/michelbongard.ch.github.io/static/js/runtime-main.41b0a91b.js",
+    "runtime-main.js.map": "/michelbongard.ch.github.io/static/js/runtime-main.41b0a91b.js.map",
+    "static/js/2.a2e55df0.chunk.js": "/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js",
+    "static/js/2.a2e55df0.chunk.js.map": "/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js.map",
+    "static/js/3.510af067.chunk.js": "/michelbongard.ch.github.io/static/js/3.510af067.chunk.js",
+    "static/js/3.510af067.chunk.js.map": "/michelbongard.ch.github.io/static/js/3.510af067.chunk.js.map",
+    "index.html": "/michelbongard.ch.github.io/index.html",
+    "static/css/main.489c434f.chunk.css.map": "/michelbongard.ch.github.io/static/css/main.489c434f.chunk.css.map",
+    "static/js/2.a2e55df0.chunk.js.LICENSE.txt": "/michelbongard.ch.github.io/static/js/2.a2e55df0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12e8aa8f.js",
+    "static/js/runtime-main.41b0a91b.js",
     "static/js/2.a2e55df0.chunk.js",
     "static/css/main.489c434f.chunk.css",
     "static/js/main.504a8965.chunk.js"
