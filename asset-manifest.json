@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/michelbongard.ch.github.io/static/css/main.6e5441a4.chunk.css",
+    "main.css": "/michelbongard.ch.github.io/static/css/main.adc91b50.chunk.css",
     "main.js": "/michelbongard.ch.github.io/static/js/main.9854514a.chunk.js",
     "main.js.map": "/michelbongard.ch.github.io/static/js/main.9854514a.chunk.js.map",
     "runtime-main.js": "/michelbongard.ch.github.io/static/js/runtime-main.dfd0fb6e.js",
@@ -10,7 +10,7 @@
     "static/js/3.ae456890.chunk.js": "/michelbongard.ch.github.io/static/js/3.ae456890.chunk.js",
     "static/js/3.ae456890.chunk.js.map": "/michelbongard.ch.github.io/static/js/3.ae456890.chunk.js.map",
     "index.html": "/michelbongard.ch.github.io/index.html",
-    "static/css/main.6e5441a4.chunk.css.map": "/michelbongard.ch.github.io/static/css/main.6e5441a4.chunk.css.map",
+    "static/css/main.adc91b50.chunk.css.map": "/michelbongard.ch.github.io/static/css/main.adc91b50.chunk.css.map",
     "static/js/2.010b8df2.chunk.js.LICENSE.txt": "/michelbongard.ch.github.io/static/js/2.010b8df2.chunk.js.LICENSE.txt",
     "static/media/bridge2_2.5_to_1.7d9e6da3.jpg": "/michelbongard.ch.github.io/static/media/bridge2_2.5_to_1.7d9e6da3.jpg",
     "static/media/profileImage.5773580c.jpg": "/michelbongard.ch.github.io/static/media/profileImage.5773580c.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.dfd0fb6e.js",
     "static/js/2.010b8df2.chunk.js",
-    "static/css/main.6e5441a4.chunk.css",
+    "static/css/main.adc91b50.chunk.css",
     "static/js/main.9854514a.chunk.js"
   ]
 }
