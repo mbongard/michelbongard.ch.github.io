@@ -5,11 +5,11 @@
     "main.js.map": "/static/js/main.888574bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b92808e9.js",
     "runtime-main.js.map": "/static/js/runtime-main.b92808e9.js.map",
-    "static/js/2.c1d6832f.chunk.js": "/static/js/2.c1d6832f.chunk.js",
-    "static/js/2.c1d6832f.chunk.js.map": "/static/js/2.c1d6832f.chunk.js.map",
+    "static/js/2.1bd6e236.chunk.js": "/static/js/2.1bd6e236.chunk.js",
+    "static/js/2.1bd6e236.chunk.js.map": "/static/js/2.1bd6e236.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.78e219b5.chunk.css.map": "/static/css/main.78e219b5.chunk.css.map",
-    "static/js/2.c1d6832f.chunk.js.LICENSE.txt": "/static/js/2.c1d6832f.chunk.js.LICENSE.txt",
+    "static/js/2.1bd6e236.chunk.js.LICENSE.txt": "/static/js/2.1bd6e236.chunk.js.LICENSE.txt",
     "static/media/banner.7d9e6da3.jpg": "/static/media/banner.7d9e6da3.jpg",
     "static/media/grpc.324ba7ae.png": "/static/media/grpc.324ba7ae.png",
     "static/media/kubernetes.9088a25c.png": "/static/media/kubernetes.9088a25c.png",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b92808e9.js",
-    "static/js/2.c1d6832f.chunk.js",
+    "static/js/2.1bd6e236.chunk.js",
     "static/css/main.78e219b5.chunk.css",
     "static/js/main.888574bf.chunk.js"
   ]
